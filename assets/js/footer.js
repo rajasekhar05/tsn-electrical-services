@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
           <h4>Reach Us</h4>
           <ul>
             <li><a href="tel:+919538818140">+91 95388 18140</a></li>
-            <li><a href="tel:+918374595076">+91 83745 95076</a></li>
+            <li><a href="tel:+919968620580">+91 99686 20580</a></li>
             <li><a href="mailto:tharaktsnespvtltd@gmail.com">tharaktsnespvtltd@gmail.com</a></li>
             <li><span>Bellary, Karnataka</span></li>
           </ul>
