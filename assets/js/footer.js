@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
             <li><a href="products.html#electrical">Electrical Items</a></li>
             <li><a href="products.html#cromwell">Cromwell Products</a></li>
             <li><a href="products.html#stanley">Stanley Tools</a></li>
+            <li><a href="products.html#plumbing">Plumbing</a></li>
           </ul>
         </div>
         <div>
